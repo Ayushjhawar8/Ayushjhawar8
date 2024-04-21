@@ -1,5 +1,11 @@
 ![logo](https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ayush Jhawar</h1>
+<h1 align="center">
+  <div style="display: inline-block;">Hi, I'm Ayush Jhawar</div>
+  <img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: inline-block; filter: invert(0); margin-left: -5px;" data-target="animated-image.originalImage">
+</h1>
+
+
+
 <h3 align="center">A passionate programmer from India | 👨‍🎓Student at SKIT'25 | Microsoft AI 900 Certified 😍 | 💻 GCSB Member | Postman Student Leader 🤩 | GSSOC'24 | Google Cloud Innovator Champion 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
 <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" align="right" width="400" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjhawar8&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjhawar8" /> </p>
@@ -11,7 +17,9 @@
 - 💬 Ask me about **Community , Technology etc.**
 
 - 📫 How to reach me **ayushjhawar499@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></a></h3>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" target="_blank">
 <p align="left">
 <a href="https://twitter.com/arorarift123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arorarift123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushjhawar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushjhawar8" height="30" width="40" /></a>
@@ -28,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&show_icons=true&locale=en" alt="ayushjhawar8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjhawar8&" alt="ayushjhawar8" /></p>
+<p align="center" dir="auto"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></p>
