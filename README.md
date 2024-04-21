@@ -1,9 +1,16 @@
 ![logo](https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Jhawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer from India | 👨‍🎓Student at SKIT'25 | Microsoft AI 900 Certified 😍 | 💻 GCSB Member | Postman Student Leader 🤩 | GSSOC'24 | Google Cloud Innovator Champion 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
 <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" align="right" width="400" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjhawar8&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjhawar8" /> </p>
 
+- 🔭 I’m currently working on **Projects to learn & give back to Community 🙌**
+
+- 🌱 I’m currently learning **Full Stack**
+
+- 💬 Ask me about **Community , Technology etc.**
+
+- 📫 How to reach me **ayushjhawar499@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arorarift123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arorarift123" height="30" width="40" /></a>
