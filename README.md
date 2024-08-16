@@ -21,7 +21,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" target="_blank">
 <p align="left">
-<a href="https://twitter.com/arorarift123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arorarift123" height="30" width="40" /></a>
+<a href="https://twitter.com/JhawarAj123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arorarift123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushjhawar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushjhawar8" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ayushjhawar8166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayushjhawar8166" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushjhawar499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushjhawar499" height="30" width="40" /></a>
