@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/Black%20Elegant%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">
   <div style="display: inline-block;">Hi, I'm Ayush Jhawar</div>
   <img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: inline-block; filter: invert(0); margin-left: -5px;" data-target="animated-image.originalImage">
