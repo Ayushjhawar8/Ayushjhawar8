@@ -1,7 +1,7 @@
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi+There;I'm+Ayush+Jhawar" alt="Typing SVG" /></a><br>  
-  <img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: flex;" data-target="animated-image.originalImage">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Ayush+Jhawar" alt="Typing SVG" /></a><br>  
+  <!--<img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: flex;" data-target="animated-image.originalImage"> -->
 </h1>
 
 
