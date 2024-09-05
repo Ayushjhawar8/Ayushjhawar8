@@ -59,6 +59,14 @@
 </div>
 <br><br>
 
+<!--
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ayushjhawar8/"><img src="https://github-profile-trophy.vercel.app/?username=ayushjhawar8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ayushjhawar8" /></a> </p>
+<br>
+-->
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushjhawar8&show_icons=true&locale=en&layout=compact" alt="ayushjhawar8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&show_icons=true&locale=en" alt="ayushjhawar8" /></p>
