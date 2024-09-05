@@ -1,17 +1,25 @@
-
+<!--
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi+There+👋;I'm+Ayush+Jhawar" alt="Typing SVG" /></a><br>  
-  <!--<img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: flex;" data-target="animated-image.originalImage"> -->
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=1000&color=F7F7F7&width=435&lines=Hi+There+👋;I'm+Ayush+Jhawar" alt="Typing SVG" /></a><br>  
+
+  
+  <img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: flex;" data-target="animated-image.originalImage"> 
 </h1>
+-->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Ayush+Jhawar;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<hr>
 
 <h3 align="center">A passionate programmer from India | 👨‍🎓Student at SKIT'25 | Microsoft AI 900 Certified 😍 | 💻 GCSB Member | Postman Student Leader 🤩 | GSSOC'24 | Google Cloud Innovator Champion 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
-<img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" align="right" width="400" alt="coding">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjhawar8&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjhawar8" /> </p>
+
+## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me*
+<img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" align="right" width="400" alt="coding">
 
 - 🔭 I’m currently working on **Projects to learn & give back to Community 🙌**
 
@@ -20,6 +28,8 @@
 - 💬 Ask me about **Community , Technology etc.**
 
 - 📫 How to reach me **ayushjhawar499@gmail.com**
+
+
 <br><br><br>
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
