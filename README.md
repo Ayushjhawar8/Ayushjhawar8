@@ -7,10 +7,11 @@
   <img src="https://github.com/Ayushjhawar8/Ayushjhawar8/blob/main/tenor-1143559285-ezgif.com-gif-maker.gif" style="width: 10%; display: flex;" data-target="animated-image.originalImage"> 
 </h1>
 -->
-
+<h1>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Ayush+Jhawar;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<hr>
+</h1>
 
 <h3 align="center">A passionate programmer from India | 👨‍🎓Student at SKIT'25 | Microsoft AI 900 Certified 😍 | 💻 GCSB Member | Postman Student Leader 🤩 | GSSOC'24 | Google Cloud Innovator Champion 🤗 | Tech and Community Enthusiast 😎 | Always Learner 🔥🚀</h3>
 
@@ -46,7 +47,9 @@
 </p>
 
 
-<h2 align="left"><br>Languages and Tools ⛏️</h2>
+<h2 align="left">
+  
+ <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> Languages and Tools</h2>
 
 <div align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80">
