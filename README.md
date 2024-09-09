@@ -9,7 +9,7 @@
 -->
 <h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Ayush+Jhawar;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Hi+There+!+👋;I'm+Ayush+Jhawar;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </h1>
 
