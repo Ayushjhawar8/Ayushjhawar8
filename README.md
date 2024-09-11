@@ -63,8 +63,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h2 align="left">
-    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
-        style="width: 100px; display: inline-block;" data-target="animated-image.originalImage">Socials:
+    Socials:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
+        style="width: 100px; display: inline-block;" data-target="animated-image.originalImage">
 </h2>
 
 
