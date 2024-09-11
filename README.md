@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjhawar8&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjhawar8" /> </p>
 
-## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me*
+## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me:*
 <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" align="right" width="400" alt="coding">
 
 - 🔭 I’m currently working on **Projects to learn & give back to Community 🙌**
@@ -40,7 +40,12 @@
 -->
 
 
-<h2 align="left"><br>Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></h3>
+
+<h2 align="left">
+  
+  <br>Socials:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage">
+  
+</h2>
 <p align="center">
     <a href="https://linkedin.com/in/ayushjhawar8" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
     <a href="https://twitter.com/JhawarAj123" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="70"></a>
@@ -51,7 +56,7 @@
 
 <h2 align="left">
   
- <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> Languages and Tools</h2>
+ <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> Languages and Tools:</h2>
 
 <div align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80">
@@ -80,11 +85,18 @@
 <br>
 -->
 
+<details>
+  <summary>
+    <h2>📊 Github Stats:</h2>
+  </summary>
+  <table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushjhawar8&show_icons=true&locale=en&layout=compact" alt="ayushjhawar8" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&show_icons=true&locale=en" alt="ayushjhawar8" /></td>
+  </tr>
+</table>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushjhawar8&show_icons=true&locale=en&layout=compact" alt="ayushjhawar8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&show_icons=true&locale=en" alt="ayushjhawar8" /></p>
+</details>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjhawar8&" alt="ayushjhawar8" /></p> -->
 <hr>
