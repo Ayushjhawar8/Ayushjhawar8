@@ -39,13 +39,13 @@
 </p>
 -->
 
-
+<br>
 
 <h2 align="left">
-  
-  <br>Socials:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage">
-  
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="width: 100px; display: inline-block;" data-target="animated-image.originalImage">Socials:
 </h2>
+
+
 <p align="center">
     <a href="https://linkedin.com/in/ayushjhawar8" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
     <a href="https://twitter.com/JhawarAj123" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="70"></a>
@@ -99,7 +99,8 @@
 </details>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjhawar8&" alt="ayushjhawar8" /></p> -->
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center" dir="auto"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
