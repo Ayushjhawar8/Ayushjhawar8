@@ -30,13 +30,14 @@
 
 - 📫 How to reach me **ayushjhawar499@gmail.com**
 
-
+<!--
 <br><br><br>
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
     <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
   </a>
 </p>
+-->
 
 
 <h2 align="left"><br>Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></h3>
