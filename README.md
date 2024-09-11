@@ -99,7 +99,10 @@
 </details>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjhawar8&" alt="ayushjhawar8" /></p> -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920px"/>
+</p>
+
 
 <p align="center" dir="auto"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></p>
 
