@@ -146,15 +146,44 @@
     <summary>
         <h2>📊 Github Stats:</h2>
     </summary>
-    <table>
-        <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushjhawar8&show_icons=true&locale=en&layout=compact"
-                    alt="ayushjhawar8" /></td>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&show_icons=true&locale=en"
-                    alt="ayushjhawar8" /></td>
-            <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjhawar8&" alt="ayushjhawar8" /></p> -->
-        </tr>
-    </table>
+    <table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ayushjhawar8">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjhawar8&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt=" ayushjhawar8's GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ayushjhawar8">
+          <img align="center" src="https://streak-stats.demolab.com?user=ayushjhawar8&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ayushjhawar8/canvascraft">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushjhawar8&repo=canvascraft&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="canvascraft" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ayushjhawar8">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ayushjhawar8&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 </details>
 
 
@@ -171,4 +200,4 @@
         src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
         style="width: 50%; display: inline-block; filter: invert(0);" data-target="animated-image.originalImage"></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
