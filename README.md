@@ -57,7 +57,22 @@
     </p>
     -->
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GSSOC Section  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <br>
+<h2>GSSOC(24) Badges 🪶</h2>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
+</div>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Social Section--------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -69,9 +84,9 @@
 
 
 <p align="center">
-<!--     <a href="https://linkedin.com/in/ayushjhawar8" target="blank"><img
+    <a href="https://linkedin.com/in/ayushjhawar8" target="blank"><img
             src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-            width="70"></a> -->
+            width="70"></a>
     <a href="https://twitter.com/JhawarAj123" target="blank"><img
             src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6"
             width="70"></a>
@@ -138,6 +153,8 @@
     <br>
     -->
 
+
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Github Stats  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -187,7 +204,7 @@
 </details>
 <details>
     <summary>
-        <h2>🎗️🏆 Holopins Badges:</h2>
+        <h2>🏆Holopins Badges </h2>
     </summary>
   
 [![@ayushjhawar8's Holopin board](https://holopin.me/ayushjhawar8)](https://holopin.io/@ayushjhawar8)
