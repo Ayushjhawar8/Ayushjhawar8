@@ -22,8 +22,8 @@
 
 </h1>
 
-<h3 align="center">A passionate programmer from India | 👨‍🎓Student at SKIT'25 | Microsoft AI 900, AI 102 Certified 😍 | 💻
-    GCSB Member | Postman Student Leader 🤩 | GSSOC'24 | Google Cloud Innovator Champion 🤗 | Tech and Community
+<h3 align="center">A passionate programmer from India | Microsoft AI 900, AI 102 Certified 😍 | 💻
+    GCSB Member | Postman Student Leader 🤩 | GSSOC'24 | Google Cloud Innovator Champion 🤗 | Open Source
     Enthusiast 😎 | Always Learner 🔥🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjhawar8&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjhawar8" /> </p>
