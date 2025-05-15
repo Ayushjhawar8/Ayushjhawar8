@@ -215,8 +215,10 @@
         <h2>🏆Holopins Badges </h2>
     </summary>
   
-[![@ayushjhawar8's Holopin board](https://holopin.me/ayushjhawar8)](https://holopin.io/@ayushjhawar8)
-
+<!--  [![@ayushjhawar8's Holopin board](https://holopin.me/ayushjhawar8)](https://holopin.io/@ayushjhawar8)  --> 
+<div align="center">
+  <img src="https://holopin.me/ayushjhawar8"/>
+</div>
 </details>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
