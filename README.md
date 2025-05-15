@@ -221,11 +221,13 @@
         <h2>🏆Holopins Badges </h2>
     </summary>
   
-[![@ayushjhawar8's Holopin board](https://holopin.me/ayushjhawar8)](https://holopin.io/@ayushjhawar8) 
+<!--  [![@ayushjhawar8's Holopin board](https://holopin.me/ayushjhawar8)](https://holopin.io/@ayushjhawar8)  -->
 
-<!--  <div align="center">
-  <img src="https://holopin.me/ayushjhawar8"/>
-</div>  -->   
+<div align="center">
+  
+  [![image](https://github.com/user-attachments/assets/9e2e61f8-e9f6-43c1-aa4a-8794c1b2bb22)](https://holopin.io/@ayushjhawar8) 
+
+</div>    
 
 </details>
 
