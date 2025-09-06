@@ -225,8 +225,8 @@
 
 <div align="center">
   
-  [![image](https://github.com/user-attachments/assets/9e2e61f8-e9f6-43c1-aa4a-8794c1b2bb22)](https://holopin.io/@ayushjhawar8) 
-
+<!--  [![image](https://github.com/user-attachments/assets/9e2e61f8-e9f6-43c1-aa4a-8794c1b2bb22)](https://holopin.io/@ayushjhawar8) -->
+  [![image](https://github.com/user-attachments/assets/96fdd80a-9804-4d68-a6ac-d0ed07068fce)](https://holopin.io/@ayushjhawar8)
 </div>    
 
 </details>
