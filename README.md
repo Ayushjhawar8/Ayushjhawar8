@@ -42,7 +42,7 @@
 
 - 💬 Ask me about **Community , Technology etc.**
 
-- 📫 How to reach me **ayushjhawar499@gmail.com**
+- 📫 How to reach me **ayushjhawar12@gmail.com**
 
 
 <!--- -- Favorite Music Design ----------------------------------------------------------------------------------------------------------------------------- -->
